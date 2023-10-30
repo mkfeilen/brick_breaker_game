@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+#gameScreen {
+  border: 1px solid black;
+}
+img {
+  display: none;
+}
